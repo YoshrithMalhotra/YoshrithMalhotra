@@ -1,4 +1,4 @@
-#  About Me:
+# 💫 About Me:
 ## About Me<br><br>Hi, I'm Yoshrith Malhotra — a passionate developer and Computer Science student interested in AI/ML, NLP, blockchain, and competitive programming. I enjoy building projects from scratch, learning core CS concepts deeply, and exploring how intelligent systems work under the hood. Currently focused on mastering C++, Python, DSA, and machine learning while contributing to open-source and personal projects.<br>
 
 
